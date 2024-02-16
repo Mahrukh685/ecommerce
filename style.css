@@ -1,7 +1,14 @@
-.parent{
+#parent{
     display:flex;
-    justify-content: center;
+    
     justify-content: space-between;
     flex-direction: row;
-   
 }
+
+
+.images{
+width:150px;
+height:150px;
+
+}
+
